@@ -1,0 +1,17 @@
+/*
+ Theme Name:   Gridbox Child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  This is a child template of gridbox
+ Author:       Jordan Aumis
+ Author URI:   http://example.com
+ Template:     gridbox
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  gridboxchild
+*/
+:root{
+    --header-background-color: #674c45;
+    --footer-background-color: #674c45;
+}
